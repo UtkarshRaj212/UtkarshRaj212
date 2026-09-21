@@ -93,11 +93,11 @@ Currently practicing:
 ## Connect
 
 <p>
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/utkarsh-raj-9a41a9263">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;
-  <a href="YOUR_LEETCODE_LINK">
+  <a href="https://leetcode.com/u/Utkarsshhh_212/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
